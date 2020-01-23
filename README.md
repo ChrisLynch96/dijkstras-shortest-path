@@ -5,7 +5,7 @@ Solution I devised for a Project like Interview question.
 
 There are two lines of input
 
-You are given a space separated input array of weighted edges of the format [A,B,10] where A is the source node, B the destination node and 10 the weight of the edge connecting A to B and a second input line of the format A->B,8, where A is the starting node, B is the destination node and 8 is the maximum amount of time allowed to reach B from A.
+You are given a space separated input array of weighted edges of the format [A,B,10] where A is the source node, B the destination node and 10 the weight of the edge connecting A to B and a second input line of the format A->B,8 where A is the starting node, B is the destination node and 8 is the maximum amount of time allowed to reach B from A.
 
 Your program must output the shortest path from a source Node to a Destination Node.
 
