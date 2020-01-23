@@ -19,6 +19,11 @@ The second line will also have no leading or trailing whitespace. The format wil
 A->D,10
 ```
 
+Given the above lines of input a correct output would be:
+```
+A->B->C->D
+```
+
 There are three errors that need to be reported via the STDOUT
 
 - E1: An Input Syntax Error
